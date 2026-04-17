@@ -1,0 +1,29 @@
+{
+  "attempt_id": "FKS2_corollary_14_02",
+  "bound_id": "FKS2_corollary_14",
+  "gate_checks": {
+    "blocker_reason": null,
+    "compile_exit_code": 0,
+    "compile_time_seconds": 4.848787208087742,
+    "compiles": true,
+    "no_forbidden_keywords": true,
+    "shape_matches": true,
+    "threshold_extracted": 793.0
+  },
+  "generated_at": "2026-04-17T00:58:05Z",
+  "improved": true,
+  "is_best_so_far": true,
+  "is_dry_run": false,
+  "lean_reference": "PrimeNumberTheoremAnd.FKS2.corollary_14",
+  "previous_best_threshold": null,
+  "provenance": {
+    "notes": "Tracked upstream theorem; the pipeline wraps its threshold into bundle-local output.",
+    "source": "FKS2",
+    "theorem": "Corollary 14"
+  },
+  "source_proof_status": "verified",
+  "subagent_claimed_threshold": 793.0,
+  "subagent_note": "Bundle-local FKS2_corollary_14 proof imported and retargeted; lake build passed for the given module target and local forbidden-keyword grep is clean.",
+  "sweep_id": "sweep_2026-04-17T00-53-26Z",
+  "threshold": 793.0
+}
